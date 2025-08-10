@@ -1,0 +1,52 @@
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.exe.config
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.exe
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.pdb
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.AssemblyReference.cache
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows_Temp_Cleaner.Form1.resources
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows_Temp_Cleaner.Properties.Resources.resources
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.GenerateResource.cache
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.exe
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.pdb
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Guna.UI2.dll
+C:\Users\neazi\source\repos\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.CopyComplete
+D:\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.exe.config
+D:\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.exe
+D:\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.pdb
+D:\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.AssemblyReference.cache
+D:\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.SuggestedBindingRedirects.cache
+D:\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows_Temp_Cleaner.Form1.resources
+D:\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows_Temp_Cleaner.Properties.Resources.resources
+D:\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.GenerateResource.cache
+D:\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.CoreCompileInputs.cache
+D:\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.Fody.CopyLocal.cache
+D:\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.Fody.RuntimeCopyLocal.cache
+D:\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.exe
+D:\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.pdb
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.exe.config
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.exe
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.pdb
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.AssemblyReference.cache
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.exe.config
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows_Temp_Cleaner.Form1.resources
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows_Temp_Cleaner.Properties.Resources.resources
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.GenerateResource.cache
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.CoreCompileInputs.cache
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.Fody.CopyLocal.cache
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.Fody.RuntimeCopyLocal.cache
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.exe
+D:\Programming Project Files\C++\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.pdb
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.exe.config
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.exe
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\bin\Release\Windows Temp Cleaner.pdb
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.AssemblyReference.cache
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.exe.config
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows_Temp_Cleaner.Form1.resources
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows_Temp_Cleaner.Properties.Resources.resources
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.GenerateResource.cache
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.CoreCompileInputs.cache
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.Fody.CopyLocal.cache
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.csproj.Fody.RuntimeCopyLocal.cache
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.exe
+D:\Cinema 4D C++ Project\Windows Temp Cleaner\Windows Temp Cleaner\obj\Release\Windows Temp Cleaner.pdb
